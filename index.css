@@ -1,15 +1,15 @@
 @font-face{
-	src:url(fonts/Raleway/Raleway-SemiBoldItalic.ttf);
+	src:url(Raleway/Raleway-SemiBoldItalic.ttf);
 	font-family: Raleway;
 } 
 
 @font-face{
-	src:url(fonts/Raleway/Raleway-ExtraLightItalic.ttf);
+	src:url(Raleway/Raleway-ExtraLightItalic.ttf);
 	font-family: Raleway-ExtraLight;
 }
 
 @font-face{
-	src:url(fonts/Raleway/Raleway-Bold.ttf);
+	src:url(Raleway/Raleway-Bold.ttf);
 	font-family: Raleway-Bold;
 }
 
@@ -36,7 +36,7 @@ html{
 .header{
 	text-align: center;
 	padding: 16%;
-	background-image: url('img/header-background.gif');
+	background-image: url('header-background.gif');
 	background-size: cover;
 }
 
