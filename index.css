@@ -1,25 +1,25 @@
 @font-face{
-	src:url(Raleway/Raleway-SemiBoldItalic.ttf);
+	src:url(Raleway-SemiBoldItalic.ttf);
 	font-family: Raleway;
 } 
 
 @font-face{
-	src:url(Raleway/Raleway-ExtraLightItalic.ttf);
+	src:url(Raleway-ExtraLightItalic.ttf);
 	font-family: Raleway-ExtraLight;
 }
 
 @font-face{
-	src:url(Raleway/Raleway-Bold.ttf);
+	src:url(Raleway-Bold.ttf);
 	font-family: Raleway-Bold;
 }
 
 @font-face{
-	src:url(fonts/Raleway/Raleway-Bold.ttf);
+	src:url(Raleway-Bold.ttf);
 	font-family: Raleway-ExtraBold;
 }
 
 @font-face{
-	src:url(fonts/Raleway/Raleway-LightItalic.ttf);
+	src:url(Raleway-LightItalic.ttf);
 	font-family: Raleway-Light;
 }
 
